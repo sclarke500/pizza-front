@@ -105,6 +105,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pizza-front"
+    }
+  },
+  "defaultProject": "pizza-front",
+  "cli": {
+    "analytics": false
+  }
 }
